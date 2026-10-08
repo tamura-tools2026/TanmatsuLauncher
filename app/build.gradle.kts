@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.tamuray.tanmachu"
+    namespace = "com.tamuray.tanmatsu"
     compileSdk = 36
 
     defaultConfig {
-        applicationId = "com.tamuray.tanmachu"
+        applicationId = "com.tamuray.tanmatsu"
         minSdk = 26
         targetSdk = 36
         versionCode = 1

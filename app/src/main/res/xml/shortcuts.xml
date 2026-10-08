@@ -8,7 +8,7 @@
         android:shortcutShortLabel="@string/shortcut_settings">
         <intent
             android:action="android.intent.action.VIEW"
-            android:targetPackage="com.tamuray.tanmachu"
-            android:targetClass="com.tamuray.tanmachu.SettingsActivity" />
+            android:targetPackage="com.tamuray.tanmatsu"
+            android:targetClass="com.tamuray.tanmatsu.SettingsActivity" />
     </shortcut>
 </shortcuts>

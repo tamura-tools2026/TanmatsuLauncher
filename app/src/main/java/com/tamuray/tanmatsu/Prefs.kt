@@ -1,4 +1,4 @@
-package com.tamuray.tanmachu
+package com.tamuray.tanmatsu
 
 import android.app.Activity
 import android.content.ActivityNotFoundException

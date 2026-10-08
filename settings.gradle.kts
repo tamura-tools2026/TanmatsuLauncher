@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "TanmachuLauncher"
+rootProject.name = "TanmatsuLauncher"
 include(":app")

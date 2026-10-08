@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">タンまちゅ</string>
-    <string name="settings_title">タンまちゅ 設定</string>
+    <string name="app_name">Tanmatsu</string>
+    <string name="settings_title">Tanmatsu 設定</string>
     <string name="shortcut_settings">設定</string>
 </resources>
