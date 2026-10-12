@@ -9,9 +9,10 @@
         android:roundIcon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
+        android:usesCleartextTraffic="true"
         android:theme="@android:style/Theme.Material.Light.DarkActionBar">
 
-        <!-- ホーム画面のアイコン。保存済みアドレスを開くだけの起動用 -->
+        <!-- ホーム画面のアイコン。設定済みの端末内フォルダの HTML を開くだけの起動用 -->
         <activity
             android:name=".LaunchActivity"
             android:exported="true"
